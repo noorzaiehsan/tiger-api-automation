@@ -6,6 +6,6 @@ public class TestRunner {
 
 	@Karate.Test
 	public Karate runTest() {
-		return Karate.run("classpath:features").tags("End2End");
+		return Karate.run("classpath:features").tags("smokeTest");
 	}
 }

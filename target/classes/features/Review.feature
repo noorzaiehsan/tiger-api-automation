@@ -1,4 +1,4 @@
-#@End2End
+@End2End
 Feature: Review
 
 Scenario: End to end account creation.
